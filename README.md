@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 CS Student @ COMSATS<br>Turning ideas into code and code into products.<br>Strong command of Python | C++ | Laravel | Android | Flutter | MVC Web Stack.
 
 
