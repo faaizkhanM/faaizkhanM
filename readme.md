@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=Architecting+High+Performance+Web+Applications;Engineering+Cross+Platform+Mobile+Ecosystems;Deploying+Real+Time+Computer+Vision+Pipelines;1st+Position+in+BSCS+Batch+%7C+3.94+SGPA)](https://git.io/typing-svg)
 
+
+
 **Computer Science Undergraduate at COMSATS University Islamabad**  
 **Academic Merit Scholar | 3.71 CGPA | 1st Position BSCS Batch Spring 2025**
-
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faaiz-khan0)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Faaizkhanm)
