@@ -7,7 +7,7 @@
 
 
 **Computer Science Undergraduate at COMSATS University Islamabad**  
-**Academic Merit Scholar | 3.71 CGPA | 1st Position BSCS Batch Spring 2025**
+**Academic Merit Scholar | 3.73 CGPA | 1st Position BSCS Batch Spring 2025**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faaiz-khan0)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Faaizkhanm)
