@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=⚡%20THE%20SYSTEM%20ARCHITECT&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Faaiz%20Khan%20|%20Full%20Stack%20Engineer%20|%20AI%20%26%20Mobile%20Specialist&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=%E2%9A%A1%20THE%20SYSTEM%20ARCHITECT&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Faaiz%20Khan%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20and%20Mobile%20Specialist&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=Architecting+High+Performance+Web+Applications;Engineering+Cross+Platform+Mobile+Ecosystems;Deploying+Real+Time+Computer+Vision+Pipelines;1st+Position+in+BSCS+Batch+%7C+3.94+SGPA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=35&lines=Architecting+High+Performance+Web+Applications;Engineering+Cross+Platform+Mobile+Ecosystems;Deploying+Real+Time+Computer+Vision+Pipelines;1st+Position+in+BSCS+Batch+%7C+3.94+SGPA)](https://git.io/typing-svg)
 
 
 
@@ -130,12 +130,12 @@
 ## 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faaizkhanM&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faaizkhanM&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=faaizkhanM&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faaizkhanM&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=faaizkhanM&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=faaizkhanM&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
